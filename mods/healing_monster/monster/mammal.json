@@ -1,0 +1,374 @@
+[
+  {
+    "id": "mon_human",
+    "type": "MONSTER",
+    "copy-from": "mon_human",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_bat",
+    "type": "MONSTER",
+    "copy-from": "mon_bat",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_bear_cub",
+    "type": "MONSTER",
+    "copy-from": "mon_bear_cub",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_bear",
+    "type": "MONSTER",
+    "copy-from": "mon_bear",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_beaver",
+    "type": "MONSTER",
+    "copy-from": "mon_beaver",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_black_rat",
+    "type": "MONSTER",
+    "copy-from": "mon_black_rat",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_lab_rat",
+    "type": "MONSTER",
+    "copy-from": "mon_lab_rat",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_boar_wild_piglet",
+    "type": "MONSTER",
+    "copy-from": "mon_boar_wild_piglet",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_boar_wild",
+    "type": "MONSTER",
+    "copy-from": "mon_boar_wild",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_bobcat",
+    "type": "MONSTER",
+    "copy-from": "mon_bobcat",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_chipmunk",
+    "type": "MONSTER",
+    "copy-from": "mon_chipmunk",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_cougar",
+    "type": "MONSTER",
+    "copy-from": "mon_cougar",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_tiger",
+    "type": "MONSTER",
+    "copy-from": "mon_tiger",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_cow_calf",
+    "type": "MONSTER",
+    "copy-from": "mon_cow_calf",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_cow",
+    "type": "MONSTER",
+    "copy-from": "mon_cow",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_coyote",
+    "type": "MONSTER",
+    "copy-from": "mon_coyote",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_coyote_wolf",
+    "type": "MONSTER",
+    "copy-from": "mon_coyote_wolf",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_deer_fawn",
+    "type": "MONSTER",
+    "copy-from": "mon_deer_fawn",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_deer",
+    "type": "MONSTER",
+    "copy-from": "mon_deer",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_fox_gray",
+    "type": "MONSTER",
+    "copy-from": "mon_fox_gray",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_fox_red",
+    "type": "MONSTER",
+    "copy-from": "mon_fox_red",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_groundhog",
+    "type": "MONSTER",
+    "copy-from": "mon_groundhog",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_hare",
+    "type": "MONSTER",
+    "copy-from": "mon_hare",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_horse_foal",
+    "type": "MONSTER",
+    "copy-from": "mon_horse_foal",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_horse",
+    "type": "MONSTER",
+    "copy-from": "mon_horse",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_lemming",
+    "type": "MONSTER",
+    "copy-from": "mon_lemming",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_mink",
+    "type": "MONSTER",
+    "copy-from": "mon_mink",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_moose",
+    "type": "MONSTER",
+    "copy-from": "mon_moose",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_moose_calf",
+    "type": "MONSTER",
+    "copy-from": "mon_moose_calf",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_tusked_moose",
+    "type": "MONSTER",
+    "copy-from": "mon_tusked_moose",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_tusked_moose_calf",
+    "type": "MONSTER",
+    "copy-from": "mon_tusked_moose_calf",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_muskrat",
+    "type": "MONSTER",
+    "copy-from": "mon_muskrat",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_nakedmolerat_giant",
+    "type": "MONSTER",
+    "copy-from": "mon_nakedmolerat_giant",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_opossum",
+    "type": "MONSTER",
+    "copy-from": "mon_opossum",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_otter",
+    "type": "MONSTER",
+    "copy-from": "mon_otter",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_pig_piglet",
+    "type": "MONSTER",
+    "copy-from": "mon_pig_piglet",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_pig",
+    "type": "MONSTER",
+    "copy-from": "mon_pig",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_rabbit",
+    "type": "MONSTER",
+    "copy-from": "mon_rabbit",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_raccoon",
+    "type": "MONSTER",
+    "copy-from": "mon_raccoon",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_rat_king",
+    "type": "MONSTER",
+    "copy-from": "mon_rat_king",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_sewer_rat",
+    "type": "MONSTER",
+    "copy-from": "mon_sewer_rat",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_sheep_lamb",
+    "type": "MONSTER",
+    "copy-from": "mon_sheep_lamb",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_sheep",
+    "type": "MONSTER",
+    "copy-from": "mon_sheep",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_goat_kid",
+    "type": "MONSTER",
+    "copy-from": "mon_goat_kid",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_goat",
+    "type": "MONSTER",
+    "copy-from": "mon_goat",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_squirrel",
+    "type": "MONSTER",
+    "copy-from": "mon_squirrel",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_squirrel_red",
+    "type": "MONSTER",
+    "copy-from": "mon_squirrel_red",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_weasel",
+    "type": "MONSTER",
+    "copy-from": "mon_weasel",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_wolf",
+    "type": "MONSTER",
+    "copy-from": "mon_wolf",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_wolf_pup",
+    "type": "MONSTER",
+    "copy-from": "mon_wolf_pup",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_reindeer",
+    "type": "MONSTER",
+    "copy-from": "mon_reindeer",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_reindeer_fawn",
+    "type": "MONSTER",
+    "copy-from": "mon_reindeer_fawn",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_llama_calf",
+    "type": "MONSTER",
+    "copy-from": "mon_llama_calf",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_llama",
+    "type": "MONSTER",
+    "copy-from": "mon_llama",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_bear_mutant_3headed",
+    "type": "MONSTER",
+    "copy-from": "mon_bear_mutant_3headed",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_beaver_mutant_huge",
+    "type": "MONSTER",
+    "copy-from": "mon_beaver_mutant_huge",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_beaver_mutant_avian",
+    "type": "MONSTER",
+    "copy-from": "mon_beaver_mutant_avian",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_coyote_mutant_shark",
+    "type": "MONSTER",
+    "copy-from": "mon_coyote_mutant_shark",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_coyote_mutant_venom",
+    "type": "MONSTER",
+    "copy-from": "mon_coyote_mutant_venom",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_wolf_mutant_huge",
+    "type": "MONSTER",
+    "copy-from": "mon_wolf_mutant_huge",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_deer_mutant_spider",
+    "type": "MONSTER",
+    "copy-from": "mon_deer_mutant_spider",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  },
+  {
+    "id": "mon_deer_mutant_spider_fawn",
+    "type": "MONSTER",
+    "copy-from": "mon_deer_mutant_spider_fawn",
+    "chat_topics": [ "TALK_MAMMAL" ]
+  }
+]

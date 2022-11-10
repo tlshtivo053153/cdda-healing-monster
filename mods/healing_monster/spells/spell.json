@@ -1,0 +1,67 @@
+[
+	{
+		"id":"spell_heal_mammal",
+		"type":"SPELL",
+		"name":"heal mammal",
+		"description":"none",
+		"flags":["SILENT","NO_PROJECTILE" ],
+		"valid_targets":[ "self","ally" ],
+		"effect":"attack",
+		"shape":"blast",
+		"base_casting_time":100,
+		"min_damage":-20,
+		"max_damage":-20
+	},
+	{
+		"id":"spell_heal_dog",
+		"type":"SPELL",
+		"name":"heal dog",
+		"description":"none",
+		"flags":["SILENT","NO_PROJECTILE" ],
+		"valid_targets":[ "self","ally" ],
+		"effect":"attack",
+		"shape":"blast",
+		"base_casting_time":100,
+		"min_damage":-20,
+		"max_damage":-20
+	},
+	{
+		"id":"spell_heal_cat",
+		"type":"SPELL",
+		"name":"heal cat",
+		"description":"none",
+		"flags":["SILENT","NO_PROJECTILE" ],
+		"valid_targets":[ "self","ally" ],
+		"effect":"attack",
+		"shape":"blast",
+		"base_casting_time":100,
+		"min_damage":-20,
+		"max_damage":-20
+	},
+	{
+		"id":"spell_heal_bug",
+		"type":"SPELL",
+		"name":"heal bug",
+		"description":"none",
+		"flags":["SILENT","NO_PROJECTILE" ],
+		"valid_targets":[ "self","ally" ],
+		"effect":"attack",
+		"shape":"blast",
+		"base_casting_time":100,
+		"min_damage":-20,
+		"max_damage":-20
+	},
+	{
+		"id":"spell_heal_bird",
+		"type":"SPELL",
+		"name":"heal bird",
+		"description":"none",
+		"flags":["SILENT","NO_PROJECTILE" ],
+		"valid_targets":[ "self","ally" ],
+		"effect":"attack",
+		"shape":"blast",
+		"base_casting_time":100,
+		"min_damage":-20,
+		"max_damage":-20
+	}
+]

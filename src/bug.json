@@ -1,0 +1,359 @@
+[
+  {
+    "id": "mon_dark_wyrm"
+  },
+  {
+    "id": "mon_graboid"
+  },
+  {
+    "id": "mon_halfworm"
+  },
+  {
+    "id": "mon_worm"
+  },
+  {
+    "id": "mon_worm_small"
+  },
+  {
+    "id": "mon_large_cockroach"
+  },
+  {
+    "id": "mon_skittering_plague"
+  },
+  {
+    "id": "mon_plague_nymph"
+  },
+  {
+    "id": "mon_plague_vector"
+  },
+  {
+    "id": "mon_giant_cockroach"
+  },
+  {
+    "id": "mon_giant_cockroach_nymph"
+  },
+  {
+    "id": "mon_pregnant_giant_cockroach"
+  },
+  {
+    "id": "mon_bee_small"
+  },
+  {
+    "id": "mon_bee"
+  },
+  {
+    "id": "mon_bee_mega"
+  },
+  {
+    "id": "mon_centipede_small"
+  },
+  {
+    "id": "mon_centipede_giant"
+  },
+  {
+    "id": "mon_centipede_mom"
+  },
+  {
+    "id": "mon_centipede_mega"
+  },
+  {
+    "id": "mon_dragonfly_naiad"
+  },
+  {
+    "id": "mon_dragonfly_giant"
+  },
+  {
+    "id": "mon_dragonfly_mega"
+  },
+  {
+    "id": "mon_firefly"
+  },
+  {
+    "id": "mon_fly_small"
+  },
+  {
+    "id": "mon_fly"
+  },
+  {
+    "id": "mon_fly_mega"
+  },
+  {
+    "id": "mon_mosquito_small"
+  },
+  {
+    "id": "mon_mosquito_giant"
+  },
+  {
+    "id": "mon_mosquito_mega"
+  },
+  {
+    "id": "mon_spider_cellar_small"
+  },
+  {
+    "id": "mon_spider_cellar_giant"
+  },
+  {
+    "id": "mon_spider_cellar_mom"
+  },
+  {
+    "id": "mon_spider_cellar_mega"
+  },
+  {
+    "id": "mon_spider_cellar_leg"
+  },
+  {
+    "id": "mon_spider_jumping_small"
+  },
+  {
+    "id": "mon_spider_jumping_giant"
+  },
+  {
+    "id": "mon_spider_jumping_mega"
+  },
+  {
+    "id": "mon_spider_trapdoor_small"
+  },
+  {
+    "id": "mon_spider_trapdoor_giant"
+  },
+  {
+    "id": "mon_spider_trapdoor_mega"
+  },
+  {
+    "id": "mon_spider_web_small"
+  },
+  {
+    "id": "mon_spider_web"
+  },
+  {
+    "id": "mon_spider_web_mega"
+  },
+  {
+    "id": "mon_spider_web_s"
+  },
+  {
+    "id": "mon_spider_widow_small"
+  },
+  {
+    "id": "mon_spider_widow_giant"
+  },
+  {
+    "id": "mon_spider_widow_mega"
+  },
+  {
+    "id": "mon_spider_widow_giant_s"
+  },
+  {
+    "id": "mon_spider_wolf_small"
+  },
+  {
+    "id": "mon_spider_wolf_giant"
+  },
+  {
+    "id": "mon_spider_wolf_mega"
+  },
+  {
+    "id": "mon_wasp_larva"
+  },
+  {
+    "id": "mon_wasp_pupa"
+  },
+  {
+    "id": "mon_wasp_small"
+  },
+  {
+    "id": "mon_wasp_small_guard"
+  },
+  {
+    "id": "mon_wasp_queen"
+  },
+  {
+    "id": "mon_wasp"
+  },
+  {
+    "id": "mon_wasp_guard"
+  },
+  {
+    "id": "mon_wasp_mega"
+  },
+  {
+    "id": "mon_dermatik_larva"
+  },
+  {
+    "id": "mon_dermatik"
+  },
+  {
+    "id": "mon_dermatik_midwife"
+  },
+  {
+    "id": "mon_dermatik_incubator_deer"
+  },
+  {
+    "id": "mon_dermatik_incubator_dog"
+  },
+  {
+    "id": "mon_dermatik_incubator_spider"
+  },
+  {
+    "id": "mon_ant_small"
+  },
+  {
+    "id": "mon_ant"
+  },
+  {
+    "id": "mon_ant_acid_small"
+  },
+  {
+    "id": "mon_ant_acid"
+  },
+  {
+    "id": "mon_ant_acid_larva"
+  },
+  {
+    "id": "mon_ant_acid_queen"
+  },
+  {
+    "id": "mon_ant_acid_soldier"
+  },
+  {
+    "id": "mon_ant_larva"
+  },
+  {
+    "id": "mon_ant_queen"
+  },
+  {
+    "id": "mon_ant_soldier"
+  },
+  {
+    "id": "mon_ant_soldier_mega"
+  },
+  {
+    "id": "mon_locust_small"
+  },
+  {
+    "id": "mon_locust"
+  },
+  {
+    "id": "mon_locust_mega"
+  },
+  {
+    "id": "mon_locust_nymph"
+  },
+  {
+    "id": "mon_aphid_small"
+  },
+  {
+    "id": "mon_aphid"
+  },
+  {
+    "id": "mon_mantis_small"
+  },
+  {
+    "id": "mon_mantis_giant"
+  },
+  {
+    "id": "mon_mantis_nymph"
+  },
+  {
+    "id": "mon_mantis_mega"
+  },
+  {
+    "id": "mon_mole_cricket"
+  },
+  {
+    "id": "mon_lady_bug"
+  },
+  {
+    "id": "mon_lady_bug_giant"
+  },
+  {
+    "id": "mon_grasshopper_small"
+  },
+  {
+    "id": "mon_grasshopper_giant"
+  },
+  {
+    "id": "mon_grasshopper_nymph"
+  },
+  {
+    "id": "mon_stag_beetle_larva"
+  },
+  {
+    "id": "mon_stag_beetle_small"
+  },
+  {
+    "id": "mon_stag_beetle_giant"
+  },
+  {
+    "id": "mon_stag_beetle_mega"
+  },
+  {
+    "id": "mon_antlion_larva"
+  },
+  {
+    "id": "mon_antlion_giant"
+  },
+  {
+    "id": "mon_strider_small"
+  },
+  {
+    "id": "mon_strider_giant"
+  },
+  {
+    "id": "mon_strider_nymph"
+  },
+  {
+    "id": "mon_butterfly"
+  },
+  {
+    "id": "mon_butterfly_giant"
+  },
+  {
+    "id": "mon_butterfly_titan"
+  },
+  {
+    "id": "mon_moth"
+  },
+  {
+    "id": "mon_moth_giant"
+  },
+  {
+    "id": "mon_moth_titan"
+  },
+  {
+    "id": "mon_caterpillar_butterfly"
+  },
+  {
+    "id": "mon_butterfly_cocoon"
+  },
+  {
+    "id": "mon_caterpillar_moth"
+  },
+  {
+    "id": "mon_moth_cocoon"
+  },
+  {
+    "id": "mon_cicada_nymph"
+  },
+  {
+    "id": "mon_cicada"
+  },
+  {
+    "id": "mon_woodlouse"
+  },
+  {
+    "id": "mon_woodlouse_manca"
+  },
+  {
+    "id": "mon_diving_larva"
+  },
+  {
+    "id": "mon_diving_beetle_small"
+  },
+  {
+    "id": "mon_water_scorpion"
+  },
+  {
+    "id": "mon_water_scorpion_larva"
+  }
+]

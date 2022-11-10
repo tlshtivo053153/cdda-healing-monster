@@ -1,0 +1,137 @@
+[
+  {
+    "id": "mon_chicken"
+  },
+  {
+    "id": "mon_grouse"
+  },
+  {
+    "id": "mon_crow"
+  },
+  {
+    "id": "mon_raven"
+  },
+  {
+    "id": "mon_bluejay"
+  },
+  {
+    "id": "mon_cardinal"
+  },
+  {
+    "id": "mon_robin"
+  },
+  {
+    "id": "mon_sparrow"
+  },
+  {
+    "id": "mon_duck"
+  },
+  {
+    "id": "mon_goose_canadian"
+  },
+  {
+    "id": "mon_turkey"
+  },
+  {
+    "id": "mon_pheasant"
+  },
+  {
+    "id": "mon_cockatrice"
+  },
+  {
+    "id": "mon_chicken_chick"
+  },
+  {
+    "id": "mon_grouse_chick"
+  },
+  {
+    "id": "mon_crow_chick"
+  },
+  {
+    "id": "mon_raven_chick"
+  },
+  {
+    "id": "mon_bluejay_chick"
+  },
+  {
+    "id": "mon_cardinal_chick"
+  },
+  {
+    "id": "mon_robin_chick"
+  },
+  {
+    "id": "mon_sparrow_chick"
+  },
+  {
+    "id": "mon_turkey_chick"
+  },
+  {
+    "id": "mon_pheasant_chick"
+  },
+  {
+    "id": "mon_cockatrice_chick"
+  },
+  {
+    "id": "mon_duck_chick"
+  },
+  {
+    "id": "mon_goose_canadian_chick"
+  },
+  {
+    "id": "mon_crow_mutant_small"
+  },
+  {
+    "id": "mon_crow_mutant"
+  },
+  {
+    "id": "mon_pigeon"
+  },
+  {
+    "id": "mon_goose"
+  },
+  {
+    "id": "mon_goose_golden"
+  },
+  {
+    "id": "mon_goose_chick"
+  },
+  {
+    "id": "mon_goose_golden_chick"
+  },
+  {
+    "id": "mon_hummingbird"
+  },
+  {
+    "id": "mon_woodpecker"
+  },
+  {
+    "id": "mon_hummingbird_chick"
+  },
+  {
+    "id": "mon_woodpecker_chick"
+  },
+  {
+    "id": "mon_coot"
+  },
+  {
+    "id": "mon_cormorant"
+  },
+  {
+    "id": "mon_moorhen"
+  },
+  {
+    "id": "mon_grebe"
+  },
+  {
+    "id": "mon_coot_chick"
+  },
+  {
+    "id": "mon_cormorant_chick"
+  },
+  {
+    "id": "mon_moorhen_chick"
+  },
+  {
+    "id": "mon_grebe_chick"
+  }
+]

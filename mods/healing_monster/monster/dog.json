@@ -1,0 +1,200 @@
+[
+  {
+    "id": "mon_dog",
+    "type": "MONSTER",
+    "copy-from": "mon_dog",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_pup",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_pup",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_bull",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_bull",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_bull_pup",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_bull_pup",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_pitbullmix",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_pitbullmix",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_pitbullmix_pup",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_pitbullmix_pup",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_beagle",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_beagle",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_beagle_pup",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_beagle_pup",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_bcollie",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_bcollie",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_bcollie_pup",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_bcollie_pup",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_boxer",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_boxer",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_boxer_pup",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_boxer_pup",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_chihuahua",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_chihuahua",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_chihuahua_pup",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_chihuahua_pup",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_dachshund",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_dachshund",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_dachshund_pup",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_dachshund_pup",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_gshepherd",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_gshepherd",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_gshepherd_pup",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_gshepherd_pup",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_gpyrenees",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_gpyrenees",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_gpyrenees_pup",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_gpyrenees_pup",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_rottweiler",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_rottweiler",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_rottweiler_pup",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_rottweiler_pup",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_auscattle",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_auscattle",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_auscattle_pup",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_auscattle_pup",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_samoyed",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_samoyed",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_samoyed_pup",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_samoyed_pup",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_mutant_mongrel",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_mutant_mongrel",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_incorporeal",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_incorporeal",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_incorporeal_pup",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_incorporeal_pup",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_telekenetic",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_telekenetic",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_telekenetic_pup",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_telekenetic_pup",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_antimemetic",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_antimemetic",
+    "chat_topics": [ "TALK_DOG" ]
+  },
+  {
+    "id": "mon_dog_antimemetic_pup",
+    "type": "MONSTER",
+    "copy-from": "mon_dog_antimemetic_pup",
+    "chat_topics": [ "TALK_DOG" ]
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "mon_chicken",
+    "type": "MONSTER",
+    "copy-from": "mon_chicken",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_grouse",
+    "type": "MONSTER",
+    "copy-from": "mon_grouse",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_crow",
+    "type": "MONSTER",
+    "copy-from": "mon_crow",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_raven",
+    "type": "MONSTER",
+    "copy-from": "mon_raven",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_bluejay",
+    "type": "MONSTER",
+    "copy-from": "mon_bluejay",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_cardinal",
+    "type": "MONSTER",
+    "copy-from": "mon_cardinal",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_robin",
+    "type": "MONSTER",
+    "copy-from": "mon_robin",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_sparrow",
+    "type": "MONSTER",
+    "copy-from": "mon_sparrow",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_duck",
+    "type": "MONSTER",
+    "copy-from": "mon_duck",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_goose_canadian",
+    "type": "MONSTER",
+    "copy-from": "mon_goose_canadian",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_turkey",
+    "type": "MONSTER",
+    "copy-from": "mon_turkey",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_pheasant",
+    "type": "MONSTER",
+    "copy-from": "mon_pheasant",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_cockatrice",
+    "type": "MONSTER",
+    "copy-from": "mon_cockatrice",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_chicken_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_chicken_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_grouse_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_grouse_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_crow_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_crow_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_raven_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_raven_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_bluejay_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_bluejay_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_cardinal_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_cardinal_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_robin_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_robin_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_sparrow_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_sparrow_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_turkey_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_turkey_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_pheasant_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_pheasant_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_cockatrice_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_cockatrice_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_duck_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_duck_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_goose_canadian_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_goose_canadian_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_crow_mutant_small",
+    "type": "MONSTER",
+    "copy-from": "mon_crow_mutant_small",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_crow_mutant",
+    "type": "MONSTER",
+    "copy-from": "mon_crow_mutant",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_pigeon",
+    "type": "MONSTER",
+    "copy-from": "mon_pigeon",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_goose",
+    "type": "MONSTER",
+    "copy-from": "mon_goose",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_goose_golden",
+    "type": "MONSTER",
+    "copy-from": "mon_goose_golden",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_goose_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_goose_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_goose_golden_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_goose_golden_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_hummingbird",
+    "type": "MONSTER",
+    "copy-from": "mon_hummingbird",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_woodpecker",
+    "type": "MONSTER",
+    "copy-from": "mon_woodpecker",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_hummingbird_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_hummingbird_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_woodpecker_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_woodpecker_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_coot",
+    "type": "MONSTER",
+    "copy-from": "mon_coot",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_cormorant",
+    "type": "MONSTER",
+    "copy-from": "mon_cormorant",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_moorhen",
+    "type": "MONSTER",
+    "copy-from": "mon_moorhen",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_grebe",
+    "type": "MONSTER",
+    "copy-from": "mon_grebe",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_coot_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_coot_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_cormorant_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_cormorant_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_moorhen_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_moorhen_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  },
+  {
+    "id": "mon_grebe_chick",
+    "type": "MONSTER",
+    "copy-from": "mon_grebe_chick",
+    "chat_topics": [ "TALK_BIRD" ]
+  }
+]

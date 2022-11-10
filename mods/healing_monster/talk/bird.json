@@ -1,0 +1,44 @@
+[
+  {
+    "id": "TALK_BIRD",
+    "type": "talk_topic",
+    "dynamic_line": "(最初に話しかけたときのフレーバー)",
+    "responses": [
+      { "text": "怪我を治す", "topic": "TALK_BIRD_HEAL" },
+      { "text": "会話を終了", "topic": "TALK_DONE" }
+    ]
+  },
+  {
+    "id": "TALK_BIRD_HEAL",
+    "type": "talk_topic",
+    "dynamic_line": "(治療メニュー)",
+    "responses": [
+      {
+	    "text": "[包帯1個] 治療",
+        "trial": { "type": "CONDITION", "condition": { "u_has_items": { "item": "bandages", "count": 1 } } },
+        "success": {
+          "topic": "TALK_BIRD_ANSWER",
+          "effect": [
+            { "npc_cast_spell": { "id": "spell_heal_bird" },"targeted": true },
+            { "u_consume_item": "bandages", "count": 1  },
+            { "u_message": "包帯を巻きました","type": "good","popup": true }
+          ]
+        },
+        "failure": { "topic": "TALK_BIRD_FAILURE" }
+      },
+      { "text": "会話を終了", "topic": "TALK_DONE" }
+    ]
+  },
+  {
+    "type": "talk_topic",
+    "id": "TALK_BIRD_ANSWER",
+    "dynamic_line": "(治療後)",
+    "responses": [ { "text": "…", "topic": "TALK_BIRD" } ]
+  },
+  {
+    "type": "talk_topic",
+    "id": "TALK_BIRD_FAILURE",
+    "dynamic_line": "治療アイテムがありません",
+    "responses": [ { "text": "….", "topic": "TALK_BIRD" } ]
+  }
+]

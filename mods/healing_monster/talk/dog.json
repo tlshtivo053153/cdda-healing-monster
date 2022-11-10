@@ -1,0 +1,44 @@
+[
+  {
+    "id": "TALK_DOG",
+    "type": "talk_topic",
+    "dynamic_line": "(最初に話しかけたときのフレーバー)",
+    "responses": [
+      { "text": "怪我を治す", "topic": "TALK_DOG_HEAL" },
+      { "text": "会話を終了", "topic": "TALK_DONE" }
+    ]
+  },
+  {
+    "id": "TALK_DOG_HEAL",
+    "type": "talk_topic",
+    "dynamic_line": "(治療メニュー)",
+    "responses": [
+      {
+	    "text": "[包帯1個] 治療",
+        "trial": { "type": "CONDITION", "condition": { "u_has_items": { "item": "bandages", "count": 1 } } },
+        "success": {
+          "topic": "TALK_DOG_ANSWER",
+          "effect": [
+            { "npc_cast_spell": { "id": "spell_heal_dog" },"targeted": true },
+            { "u_consume_item": "bandages", "count": 1  },
+            { "u_message": "包帯を巻きました","type": "good","popup": true }
+          ]
+        },
+        "failure": { "topic": "TALK_DOG_FAILURE" }
+      },
+      { "text": "会話を終了", "topic": "TALK_DONE" }
+    ]
+  },
+  {
+    "type": "talk_topic",
+    "id": "TALK_DOG_ANSWER",
+    "dynamic_line": "(治療後)",
+    "responses": [ { "text": "…", "topic": "TALK_DOG" } ]
+  },
+  {
+    "type": "talk_topic",
+    "id": "TALK_DOG_FAILURE",
+    "dynamic_line": "治療アイテムがありません",
+    "responses": [ { "text": "….", "topic": "TALK_DOG" } ]
+  }
+]

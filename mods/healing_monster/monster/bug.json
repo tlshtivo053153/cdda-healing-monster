@@ -1,0 +1,716 @@
+[
+  {
+    "id": "mon_dark_wyrm",
+    "type": "MONSTER",
+    "copy-from": "mon_dark_wyrm",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_graboid",
+    "type": "MONSTER",
+    "copy-from": "mon_graboid",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_halfworm",
+    "type": "MONSTER",
+    "copy-from": "mon_halfworm",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_worm",
+    "type": "MONSTER",
+    "copy-from": "mon_worm",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_worm_small",
+    "type": "MONSTER",
+    "copy-from": "mon_worm_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_large_cockroach",
+    "type": "MONSTER",
+    "copy-from": "mon_large_cockroach",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_skittering_plague",
+    "type": "MONSTER",
+    "copy-from": "mon_skittering_plague",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_plague_nymph",
+    "type": "MONSTER",
+    "copy-from": "mon_plague_nymph",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_plague_vector",
+    "type": "MONSTER",
+    "copy-from": "mon_plague_vector",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_giant_cockroach",
+    "type": "MONSTER",
+    "copy-from": "mon_giant_cockroach",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_giant_cockroach_nymph",
+    "type": "MONSTER",
+    "copy-from": "mon_giant_cockroach_nymph",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_pregnant_giant_cockroach",
+    "type": "MONSTER",
+    "copy-from": "mon_pregnant_giant_cockroach",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_bee_small",
+    "type": "MONSTER",
+    "copy-from": "mon_bee_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_bee",
+    "type": "MONSTER",
+    "copy-from": "mon_bee",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_bee_mega",
+    "type": "MONSTER",
+    "copy-from": "mon_bee_mega",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_centipede_small",
+    "type": "MONSTER",
+    "copy-from": "mon_centipede_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_centipede_giant",
+    "type": "MONSTER",
+    "copy-from": "mon_centipede_giant",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_centipede_mom",
+    "type": "MONSTER",
+    "copy-from": "mon_centipede_mom",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_centipede_mega",
+    "type": "MONSTER",
+    "copy-from": "mon_centipede_mega",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_dragonfly_naiad",
+    "type": "MONSTER",
+    "copy-from": "mon_dragonfly_naiad",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_dragonfly_giant",
+    "type": "MONSTER",
+    "copy-from": "mon_dragonfly_giant",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_dragonfly_mega",
+    "type": "MONSTER",
+    "copy-from": "mon_dragonfly_mega",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_firefly",
+    "type": "MONSTER",
+    "copy-from": "mon_firefly",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_fly_small",
+    "type": "MONSTER",
+    "copy-from": "mon_fly_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_fly",
+    "type": "MONSTER",
+    "copy-from": "mon_fly",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_fly_mega",
+    "type": "MONSTER",
+    "copy-from": "mon_fly_mega",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_mosquito_small",
+    "type": "MONSTER",
+    "copy-from": "mon_mosquito_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_mosquito_giant",
+    "type": "MONSTER",
+    "copy-from": "mon_mosquito_giant",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_mosquito_mega",
+    "type": "MONSTER",
+    "copy-from": "mon_mosquito_mega",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_cellar_small",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_cellar_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_cellar_giant",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_cellar_giant",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_cellar_mom",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_cellar_mom",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_cellar_mega",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_cellar_mega",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_cellar_leg",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_cellar_leg",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_jumping_small",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_jumping_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_jumping_giant",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_jumping_giant",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_jumping_mega",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_jumping_mega",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_trapdoor_small",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_trapdoor_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_trapdoor_giant",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_trapdoor_giant",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_trapdoor_mega",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_trapdoor_mega",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_web_small",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_web_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_web",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_web",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_web_mega",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_web_mega",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_web_s",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_web_s",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_widow_small",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_widow_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_widow_giant",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_widow_giant",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_widow_mega",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_widow_mega",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_widow_giant_s",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_widow_giant_s",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_wolf_small",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_wolf_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_wolf_giant",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_wolf_giant",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_spider_wolf_mega",
+    "type": "MONSTER",
+    "copy-from": "mon_spider_wolf_mega",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_wasp_larva",
+    "type": "MONSTER",
+    "copy-from": "mon_wasp_larva",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_wasp_pupa",
+    "type": "MONSTER",
+    "copy-from": "mon_wasp_pupa",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_wasp_small",
+    "type": "MONSTER",
+    "copy-from": "mon_wasp_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_wasp_small_guard",
+    "type": "MONSTER",
+    "copy-from": "mon_wasp_small_guard",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_wasp_queen",
+    "type": "MONSTER",
+    "copy-from": "mon_wasp_queen",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_wasp",
+    "type": "MONSTER",
+    "copy-from": "mon_wasp",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_wasp_guard",
+    "type": "MONSTER",
+    "copy-from": "mon_wasp_guard",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_wasp_mega",
+    "type": "MONSTER",
+    "copy-from": "mon_wasp_mega",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_dermatik_larva",
+    "type": "MONSTER",
+    "copy-from": "mon_dermatik_larva",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_dermatik",
+    "type": "MONSTER",
+    "copy-from": "mon_dermatik",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_dermatik_midwife",
+    "type": "MONSTER",
+    "copy-from": "mon_dermatik_midwife",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_dermatik_incubator_deer",
+    "type": "MONSTER",
+    "copy-from": "mon_dermatik_incubator_deer",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_dermatik_incubator_dog",
+    "type": "MONSTER",
+    "copy-from": "mon_dermatik_incubator_dog",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_dermatik_incubator_spider",
+    "type": "MONSTER",
+    "copy-from": "mon_dermatik_incubator_spider",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_ant_small",
+    "type": "MONSTER",
+    "copy-from": "mon_ant_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_ant",
+    "type": "MONSTER",
+    "copy-from": "mon_ant",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_ant_acid_small",
+    "type": "MONSTER",
+    "copy-from": "mon_ant_acid_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_ant_acid",
+    "type": "MONSTER",
+    "copy-from": "mon_ant_acid",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_ant_acid_larva",
+    "type": "MONSTER",
+    "copy-from": "mon_ant_acid_larva",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_ant_acid_queen",
+    "type": "MONSTER",
+    "copy-from": "mon_ant_acid_queen",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_ant_acid_soldier",
+    "type": "MONSTER",
+    "copy-from": "mon_ant_acid_soldier",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_ant_larva",
+    "type": "MONSTER",
+    "copy-from": "mon_ant_larva",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_ant_queen",
+    "type": "MONSTER",
+    "copy-from": "mon_ant_queen",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_ant_soldier",
+    "type": "MONSTER",
+    "copy-from": "mon_ant_soldier",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_ant_soldier_mega",
+    "type": "MONSTER",
+    "copy-from": "mon_ant_soldier_mega",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_locust_small",
+    "type": "MONSTER",
+    "copy-from": "mon_locust_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_locust",
+    "type": "MONSTER",
+    "copy-from": "mon_locust",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_locust_mega",
+    "type": "MONSTER",
+    "copy-from": "mon_locust_mega",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_locust_nymph",
+    "type": "MONSTER",
+    "copy-from": "mon_locust_nymph",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_aphid_small",
+    "type": "MONSTER",
+    "copy-from": "mon_aphid_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_aphid",
+    "type": "MONSTER",
+    "copy-from": "mon_aphid",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_mantis_small",
+    "type": "MONSTER",
+    "copy-from": "mon_mantis_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_mantis_giant",
+    "type": "MONSTER",
+    "copy-from": "mon_mantis_giant",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_mantis_nymph",
+    "type": "MONSTER",
+    "copy-from": "mon_mantis_nymph",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_mantis_mega",
+    "type": "MONSTER",
+    "copy-from": "mon_mantis_mega",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_mole_cricket",
+    "type": "MONSTER",
+    "copy-from": "mon_mole_cricket",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_lady_bug",
+    "type": "MONSTER",
+    "copy-from": "mon_lady_bug",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_lady_bug_giant",
+    "type": "MONSTER",
+    "copy-from": "mon_lady_bug_giant",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_grasshopper_small",
+    "type": "MONSTER",
+    "copy-from": "mon_grasshopper_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_grasshopper_giant",
+    "type": "MONSTER",
+    "copy-from": "mon_grasshopper_giant",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_grasshopper_nymph",
+    "type": "MONSTER",
+    "copy-from": "mon_grasshopper_nymph",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_stag_beetle_larva",
+    "type": "MONSTER",
+    "copy-from": "mon_stag_beetle_larva",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_stag_beetle_small",
+    "type": "MONSTER",
+    "copy-from": "mon_stag_beetle_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_stag_beetle_giant",
+    "type": "MONSTER",
+    "copy-from": "mon_stag_beetle_giant",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_stag_beetle_mega",
+    "type": "MONSTER",
+    "copy-from": "mon_stag_beetle_mega",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_antlion_larva",
+    "type": "MONSTER",
+    "copy-from": "mon_antlion_larva",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_antlion_giant",
+    "type": "MONSTER",
+    "copy-from": "mon_antlion_giant",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_strider_small",
+    "type": "MONSTER",
+    "copy-from": "mon_strider_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_strider_giant",
+    "type": "MONSTER",
+    "copy-from": "mon_strider_giant",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_strider_nymph",
+    "type": "MONSTER",
+    "copy-from": "mon_strider_nymph",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_butterfly",
+    "type": "MONSTER",
+    "copy-from": "mon_butterfly",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_butterfly_giant",
+    "type": "MONSTER",
+    "copy-from": "mon_butterfly_giant",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_butterfly_titan",
+    "type": "MONSTER",
+    "copy-from": "mon_butterfly_titan",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_moth",
+    "type": "MONSTER",
+    "copy-from": "mon_moth",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_moth_giant",
+    "type": "MONSTER",
+    "copy-from": "mon_moth_giant",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_moth_titan",
+    "type": "MONSTER",
+    "copy-from": "mon_moth_titan",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_caterpillar_butterfly",
+    "type": "MONSTER",
+    "copy-from": "mon_caterpillar_butterfly",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_butterfly_cocoon",
+    "type": "MONSTER",
+    "copy-from": "mon_butterfly_cocoon",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_caterpillar_moth",
+    "type": "MONSTER",
+    "copy-from": "mon_caterpillar_moth",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_moth_cocoon",
+    "type": "MONSTER",
+    "copy-from": "mon_moth_cocoon",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_cicada_nymph",
+    "type": "MONSTER",
+    "copy-from": "mon_cicada_nymph",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_cicada",
+    "type": "MONSTER",
+    "copy-from": "mon_cicada",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_woodlouse",
+    "type": "MONSTER",
+    "copy-from": "mon_woodlouse",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_woodlouse_manca",
+    "type": "MONSTER",
+    "copy-from": "mon_woodlouse_manca",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_diving_larva",
+    "type": "MONSTER",
+    "copy-from": "mon_diving_larva",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_diving_beetle_small",
+    "type": "MONSTER",
+    "copy-from": "mon_diving_beetle_small",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_water_scorpion",
+    "type": "MONSTER",
+    "copy-from": "mon_water_scorpion",
+    "chat_topics": [ "TALK_BUG" ]
+  },
+  {
+    "id": "mon_water_scorpion_larva",
+    "type": "MONSTER",
+    "copy-from": "mon_water_scorpion_larva",
+    "chat_topics": [ "TALK_BUG" ]
+  }
+]

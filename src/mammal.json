@@ -1,0 +1,188 @@
+[
+  {
+    "id": "mon_human"
+  },
+  {
+    "id": "mon_bat"
+  },
+  {
+    "id": "mon_bear_cub"
+  },
+  {
+    "id": "mon_bear"
+  },
+  {
+    "id": "mon_beaver"
+  },
+  {
+    "id": "mon_black_rat"
+  },
+  {
+    "id": "mon_lab_rat"
+  },
+  {
+    "id": "mon_boar_wild_piglet"
+  },
+  {
+    "id": "mon_boar_wild"
+  },
+  {
+    "id": "mon_bobcat"
+  },
+  {
+    "id": "mon_chipmunk"
+  },
+  {
+    "id": "mon_cougar"
+  },
+  {
+    "id": "mon_tiger"
+  },
+  {
+    "id": "mon_cow_calf"
+  },
+  {
+    "id": "mon_cow"
+  },
+  {
+    "id": "mon_coyote"
+  },
+  {
+    "id": "mon_coyote_wolf"
+  },
+  {
+    "id": "mon_deer_fawn"
+  },
+  {
+    "id": "mon_deer"
+  },
+  {
+    "id": "mon_fox_gray"
+  },
+  {
+    "id": "mon_fox_red"
+  },
+  {
+    "id": "mon_groundhog"
+  },
+  {
+    "id": "mon_hare"
+  },
+  {
+    "id": "mon_horse_foal"
+  },
+  {
+    "id": "mon_horse"
+  },
+  {
+    "id": "mon_lemming"
+  },
+  {
+    "id": "mon_mink"
+  },
+  {
+    "id": "mon_moose"
+  },
+  {
+    "id": "mon_moose_calf"
+  },
+  {
+    "id": "mon_tusked_moose"
+  },
+  {
+    "id": "mon_tusked_moose_calf"
+  },
+  {
+    "id": "mon_muskrat"
+  },
+  {
+    "id": "mon_nakedmolerat_giant"
+  },
+  {
+    "id": "mon_opossum"
+  },
+  {
+    "id": "mon_otter"
+  },
+  {
+    "id": "mon_pig_piglet"
+  },
+  {
+    "id": "mon_pig"
+  },
+  {
+    "id": "mon_rabbit"
+  },
+  {
+    "id": "mon_raccoon"
+  },
+  {
+    "id": "mon_rat_king"
+  },
+  {
+    "id": "mon_sewer_rat"
+  },
+  {
+    "id": "mon_sheep_lamb"
+  },
+  {
+    "id": "mon_sheep"
+  },
+  {
+    "id": "mon_goat_kid"
+  },
+  {
+    "id": "mon_goat"
+  },
+  {
+    "id": "mon_squirrel"
+  },
+  {
+    "id": "mon_squirrel_red"
+  },
+  {
+    "id": "mon_weasel"
+  },
+  {
+    "id": "mon_wolf"
+  },
+  {
+    "id": "mon_wolf_pup"
+  },
+  {
+    "id": "mon_reindeer"
+  },
+  {
+    "id": "mon_reindeer_fawn"
+  },
+  {
+    "id": "mon_llama_calf"
+  },
+  {
+    "id": "mon_llama"
+  },
+  {
+    "id": "mon_bear_mutant_3headed"
+  },
+  {
+    "id": "mon_beaver_mutant_huge"
+  },
+  {
+    "id": "mon_beaver_mutant_avian"
+  },
+  {
+    "id": "mon_coyote_mutant_shark"
+  },
+  {
+    "id": "mon_coyote_mutant_venom"
+  },
+  {
+    "id": "mon_wolf_mutant_huge"
+  },
+  {
+    "id": "mon_deer_mutant_spider"
+  },
+  {
+    "id": "mon_deer_mutant_spider_fawn"
+  }
+]

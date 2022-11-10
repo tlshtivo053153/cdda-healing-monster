@@ -1,0 +1,188 @@
+[
+  {
+    "id": "mon_cat_kitten",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_kitten",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat",
+    "type": "MONSTER",
+    "copy-from": "mon_cat",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_isherwood",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_isherwood",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_longhair",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_longhair",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_longhair_kitten",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_longhair_kitten",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_maine_coon",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_maine_coon",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_maine_coon_kitten",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_maine_coon_kitten",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_siamese",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_siamese",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_siamese_kitten",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_siamese_kitten",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_persian",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_persian",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_persian_kitten",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_persian_kitten",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_bengal",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_bengal",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_bengal_kitten",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_bengal_kitten",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_devon_rex",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_devon_rex",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_devon_rex_kitten",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_devon_rex_kitten",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_sphynx",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_sphynx",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_sphynx_kitten",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_sphynx_kitten",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_tabby",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_tabby",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_tabby_kitten",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_tabby_kitten",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_calico",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_calico",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_calico_kitten",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_calico_kitten",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_chonker",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_chonker",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_chonker_kitten",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_chonker_kitten",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_black_kitten",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_black_kitten",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_black",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_black",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_mutant_prism",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_mutant_prism",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_mutant_kitten_prism",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_mutant_kitten_prism",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_liquid_kitten",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_liquid_kitten",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_liquid",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_liquid",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_void_kitten",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_void_kitten",
+    "chat_topics": [ "TALK_CAT" ]
+  },
+  {
+    "id": "mon_cat_void",
+    "type": "MONSTER",
+    "copy-from": "mon_cat_void",
+    "chat_topics": [ "TALK_CAT" ]
+  }
+]

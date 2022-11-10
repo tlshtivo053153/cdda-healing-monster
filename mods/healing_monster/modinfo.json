@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "healing_monster",
+    "name": "変更 - 友好モンスターの回復",
+    "authors": [ "tlshtivo053153" ],
+    "description": "友好モンスターを回復できるようにします",
+    "category": "rebalance",
+    "dependencies": [ "dda" ],
+    "version": "0.1"
+  }
+]
